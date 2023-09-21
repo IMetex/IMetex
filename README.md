@@ -5,7 +5,7 @@
 
 
 - 🔭 I'm currently working to improve my game development skills using C# and Unity.
-- 📝 I regularly write articles on **[https://medium.com/@brs.mete](https://medium.com/@brs.mete)**
+- 📝 I regularly write articles on **[https://medium.com/@brs.mete](https://medium.com/@brs.mete7)**
 - 📫 How to reach me **brs.mete7@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://imetex.itch.io/](https://imetex.itch.io/)**
 
