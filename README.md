@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=ffd12b&width=435&lines=Hi%2C+I'm+Barış+Mete;I'm+a++Game+Developer.+;)
-<h4>I'm Barış and I have a great passion for game development. I have developed many projects on my own and I’m still working on them.</h4>
+<h4> I'm Barış and I have a great passion for game development. I have developed many projects on my own and I’m still working on them. </h4>
 
 
 
